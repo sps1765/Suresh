@@ -1,4 +1,4 @@
- import streamlit as st
+import streamlit as st
 
 def calculate_grade(score, max_score):
     percentage = (score / max_score) * 100
